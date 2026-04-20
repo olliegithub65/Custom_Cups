@@ -1,0 +1,42 @@
+body {
+  background-color: #0be60f;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  color: #fa3011;
+
+h2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #f0b400;
+}
+
+p {
+  text-align: center;
+  font-family: 'Lora', serif;
+  color: #1a09d6;
+}
+
+/* Normal link */
+a:link {
+  color: pink;
+}
+
+/* Visited link */
+a:visited {
+  color: purple;
+}
+
+/* When hovering */
+a:hover {
+  color: red;
+}
+
+/* When clicked */
+a:active {
+  color: green;
+}
+	
+	
