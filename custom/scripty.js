@@ -2,3 +2,30 @@ console.log("hello lads")
 console.log("whats the craic")
 console.log("if you have found this you are offically a hoimy")
 console.log("welcome to the squad")
+console.log("welcome to the squad")
+console.log("welcome to the squad")
+
+console.log("hello lads")
+console.log("whats the craic")
+console.log("if you have found this you are offically a hoimy")
+console.log("welcome to the squad")
+console.log("welcome to the squad")
+console.log("welcome to the squad")
+
+console.log("hello lads")
+console.log("whats the craic")
+console.log("if you have found this you are offically a hoimy")
+console.log("welcome to the squad")
+console.log("welcome to the squad")
+console.log("welcome to the squad")
+
+console.log("hello lads")
+console.log("whats the craic")
+console.log("if you have found this you are offically a hoimy")
+console.log("welcome to the squad")
+console.log("welcome to the squad")
+console.log("welcome to the squad")
+
+
+console.log("put code OllieIsSoCoOl on your order form for 99% off")
+
