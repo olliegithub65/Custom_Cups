@@ -27,5 +27,5 @@ console.log("welcome to the squad")
 console.log("welcome to the squad")
 
 
-console.log("put code OllieIsSoCoOl on your order form for 99% off")
+
 
